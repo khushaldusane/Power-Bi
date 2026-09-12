@@ -223,7 +223,8 @@ Bank-Churn-Analysis/
 │
 ├── README.md
 │
-├── Bank Dashboard.pbix
+├── Bank
+.pbix
 │
 ├── Bank_Churn.csv
 │
