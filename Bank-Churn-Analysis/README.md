@@ -1,0 +1,282 @@
+\# 🏦 Bank Churn Analysis – Power BI Dashboard
+
+
+
+\## 📊 Project Overview
+
+
+
+This project is an interactive \*\*Bank Customer Churn Analysis Dashboard\*\* built using \*\*Microsoft Power BI\*\*.
+
+
+
+The dashboard analyzes customer activity, churn behavior, credit score groups, gender distribution, customer activity status, and churn trends over time. It is designed to help identify patterns in customer exits and provide useful insights for customer retention strategies.
+
+
+
+\---
+
+
+
+\## 🎯 Objectives
+
+
+
+The main objectives of this project are to:
+
+
+
+\- Analyze overall customer churn.
+
+\- Understand customer activity and retention patterns.
+
+\- Identify churn trends by month and year.
+
+\- Compare exited customers by gender.
+
+\- Analyze churn based on credit score groups.
+
+\- Understand the relationship between customer activity and exits.
+
+\- Provide an interactive dashboard for business decision-making.
+
+
+
+\---
+
+
+
+\## 📌 Dashboard Features
+
+
+
+The dashboard contains the following key sections:
+
+
+
+\### 🔹 KPI Cards
+
+
+
+The dashboard provides high-level metrics including:
+
+
+
+\- \*\*Total Customers:\*\* 10K
+
+\- \*\*Total Balance:\*\* 765M
+
+\- \*\*Active Customers:\*\* 5K
+
+\- \*\*Retain Customers:\*\* 8K
+
+\- \*\*Exit Customers:\*\* 2K
+
+
+
+\### 🔹 Customer Activity by Year
+
+
+
+A clustered column chart compares:
+
+
+
+\- Active customers
+
+\- Inactive customers
+
+
+
+across different years.
+
+
+
+\### 🔹 Monthly Churn Analysis
+
+
+
+A line chart shows:
+
+
+
+\- Exit Customers by month
+
+\- Previous Month Churn %
+
+
+
+This helps identify monthly fluctuations and potential churn trends.
+
+
+
+\### 🔹 Exited Customers by Gender
+
+
+
+A donut chart displays the gender distribution of exited customers.
+
+
+
+\- Female: \*\*55.92%\*\*
+
+\- Male: \*\*44.08%\*\*
+
+
+
+\### 🔹 Exited Customers by Credit Score
+
+
+
+Exited customers are grouped according to their credit score:
+
+
+
+| Credit Score Group | Exited Customers |
+
+|--------------------|------------------:|
+
+| Fair | 685 |
+
+| Poor | 520 |
+
+| Good | 452 |
+
+| Very Good | 252 |
+
+| Excellent | 128 |
+
+
+
+\### 🔹 Exit Customers by Activity Category
+
+
+
+The dashboard compares exited customers based on whether they were:
+
+
+
+\- Active
+
+\- Inactive
+
+
+
+The dashboard indicates that inactive customers represent the larger share of exits.
+
+
+
+\---
+
+
+
+\## 🎛️ Interactive Filters
+
+
+
+Users can interact with the dashboard using the following filters:
+
+
+
+\- \*\*Year\*\*
+
+\- \*\*Month\*\*
+
+\- \*\*Location\*\*
+
+\- \*\*Credit Card\*\*
+
+\- \*\*Gender\*\*
+
+
+
+These filters allow users to explore churn patterns across different customer segments.
+
+
+
+\---
+
+
+
+\## 🛠️ Tools \& Technologies
+
+
+
+\- \*\*Microsoft Power BI\*\*
+
+\- \*\*Power Query\*\*
+
+\- \*\*DAX\*\*
+
+\- \*\*Data Visualization\*\*
+
+\- \*\*Data Cleaning \& Transformation\*\*
+
+\- \*\*Data Analysis\*\*
+
+
+
+\---
+
+
+
+\## 📈 Key Insights
+
+
+
+Some of the insights highlighted by the dashboard include:
+
+
+
+1\. Approximately \*\*2K customers have exited\*\*, compared with around \*\*8K retained customers\*\*.
+
+2\. The customer base contains approximately \*\*10K customers\*\*.
+
+3\. The total customer balance is approximately \*\*765M\*\*.
+
+4\. Female customers represent a slightly larger proportion of exited customers than male customers.
+
+5\. Customers in the \*\*Fair credit score group\*\* account for the highest number of exits.
+
+6\. \*\*Inactive customers\*\* make up the majority of exited customers.
+
+7\. Monthly churn varies throughout the year, making month-over-month analysis useful for identifying periods of increased customer exits.
+
+
+
+\---
+
+
+
+\## 🖼️ Dashboard Preview
+
+
+
+!\[Bank Churn Analysis Dashboard](image.png)
+
+
+
+> \*\*Note:\*\* Place the dashboard screenshot in the root folder of the repository and name it `image.png`, or update the image path above accordingly.
+
+
+
+\---
+
+
+
+\## 📂 Project Structure
+
+
+
+```text
+
+Bank-Churn-Analysis/
+
+│
+
+├── README.md
+
+├── Bank Dashboard.pbix
+
+└── Bank\_Churn.csv
+
