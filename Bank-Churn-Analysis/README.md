@@ -213,7 +213,6 @@ This project was developed using:
 
 ![Bank Churn Analysis Dashboard](image.png)
 
-> **Note:** Place the dashboard screenshot in the root directory of the repository and name it `image.png`.
 
 ---
 
