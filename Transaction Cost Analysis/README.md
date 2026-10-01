@@ -82,7 +82,7 @@ Institutional trading costs represent a substantial drag on investment returns. 
 
  **Explore the Power BI Dashboard:**
    - Open your Power BI Desktop application.
-   - Load the Power BI project file and connect to `tca_trade_executions.csv`.
+   - Load the Power BI project file and connect to `Trades.csv`.
 
 
 
