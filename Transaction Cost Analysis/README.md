@@ -29,7 +29,9 @@ Institutional trading costs represent a substantial drag on investment returns. 
 ### Page 1: Institutional Transaction Cost Analysis (TCA)
 *Executive benchmarking of broker performance, algorithmic strategies, and venue routing matrices.*
 
-![Institutional TCA Dashboard Page 1](dashboard page/1.png)
+<p align="center">
+  <img src="dashboard page/1.png" width="900">
+</p>
 
 #### Core Features & Visuals:
 
@@ -49,7 +51,10 @@ Institutional trading costs represent a substantial drag on investment returns. 
 ### Page 2: Execution Quality & Cost Breakdown
 *Deep microstructure diagnostics, root-cause decomposition, and order urgency sensitivity.*
 
-![Execution Quality Dashboard Page 2](dashboard page/2.png)
+<p align="center">
+  <img src="dashboard page/2.png" width="900">
+</p>
+
 
 #### Core Features & Visuals:
 - Provides a detailed view of **execution quality and the factors contributing to overall transaction costs.**
