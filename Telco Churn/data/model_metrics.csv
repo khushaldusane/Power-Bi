@@ -1,0 +1,5 @@
+Model,CV_5Fold_ROC_AUC,Test_ROC_AUC,ROC_AUC_95_CI,Test_PR_AUC,Accuracy,Precision,Recall,F1_Score,Brier_Score
+Naive Majority Baseline,0.5,0.5,"[0.500, 0.500]",0.2658,0.7342,0.0,0.0,0.0,0.1952
+Logistic Regression (Standard L2),0.8448,0.8455,"[0.820, 0.872]",0.6587,0.8108,0.6884,0.5267,0.5968,0.136
+Logistic Regression (Cost-Sensitive Balanced),0.8444,0.8452,"[0.820, 0.871]",0.6593,0.7474,0.5165,0.7794,0.6213,0.1628
+Random Forest (Regularized Depth=8),0.847,0.8376,"[0.811, 0.861]",0.6686,0.7947,0.6684,0.452,0.5393,0.1376

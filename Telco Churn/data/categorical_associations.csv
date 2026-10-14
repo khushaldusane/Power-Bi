@@ -1,0 +1,17 @@
+Feature,Chi2_Stat,Cramers_V,DoF,p_value,Highest_Risk_Category,Significant_0_05
+Contract,1184.6,0.4101,2,5.863038300673391e-258,Month-to-month (42.7%),True
+OnlineSecurity,850.0,0.3474,2,2.6611496351765517e-185,No (41.8%),True
+TechSupport,828.2,0.3429,2,1.4430840279998987e-180,No (41.6%),True
+InternetService,732.31,0.3225,2,9.571788222840544e-160,Fiber optic (41.9%),True
+PaymentMethod,648.14,0.3034,3,3.6823546520097993e-140,Electronic check (45.3%),True
+OnlineBackup,601.81,0.2923,2,2.0797592160864276e-131,No (39.9%),True
+DeviceProtection,558.42,0.2816,2,5.505219496457244e-122,No (39.1%),True
+StreamingMovies,375.66,0.231,2,2.667756755723681e-82,No (33.7%),True
+StreamingTV,374.2,0.2305,2,5.528994485739183e-82,No (33.5%),True
+PaperlessBilling,258.28,0.1915,1,4.073354668665985e-58,Yes (33.6%),True
+Dependents,189.13,0.1639,1,4.9249216612154196e-43,No (31.3%),True
+SeniorCitizen,159.43,0.1505,1,1.510066805092378e-36,1 (41.7%),True
+Partner,158.73,0.1501,1,2.1399113440759935e-36,No (33.0%),True
+MultipleLines,11.33,0.0401,2,0.0034643829548773,Yes (28.6%),True
+PhoneService,0.92,0.0114,1,0.3387825358066928,Yes (26.7%),False
+gender,0.48,0.0083,1,0.48657873605618596,Female (26.9%),False

@@ -1,0 +1,5 @@
+segment_id,segment_name,Customer_Count,Share_of_Base_Pct,Actual_Churn_Rate_Pct,Avg_Predicted_Risk_Pct,Avg_Tenure_Months,Avg_Monthly_Charges,Avg_Addon_Services,Total_Segment_MRR,Expected_MRR_at_Risk
+2,Segment A: High-Risk Month-to-Month Broadband,3356,47.7,44.8,45.4,17.1,70.42,1.65,236328.75,114281.96
+3,Segment C: Early-Tenure Phone-Only Utility,733,10.4,14.3,13.3,11.1,20.41,0.0,14963.55,1992.65
+1,Segment B: Loyal Multi-Service Power Users,2159,30.7,11.8,11.2,57.4,86.87,4.09,187554.15,23511.98
+0,Segment D: Loyal Phone-Only Long-Timers,795,11.3,1.0,1.1,48.5,21.72,0.0,17270.15,191.66

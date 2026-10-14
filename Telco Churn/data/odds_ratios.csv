@@ -1,0 +1,18 @@
+Feature,Log_Odds_Beta,Odds_Ratio,OR_95_CI_Low,OR_95_CI_High,z_stat,p_value,Impact_Direction,Significant_0_05
+Internet_None,-1.3594,0.2568,0.1705,0.3868,-6.507,7.67131524313556e-11,Reduces Churn Risk (Protective),True
+Contract_TwoYear,-1.3219,0.2666,0.1791,0.397,-6.509,7.571376732747589e-11,Reduces Churn Risk (Protective),True
+Internet_FiberOptic,1.233,3.4317,2.1438,5.4931,5.137,2.790478059291636e-07,Increases Churn Risk,True
+tenure_std,-0.7814,0.4578,0.4013,0.5221,-11.641,2.535741307012149e-31,Reduces Churn Risk (Protective),True
+Contract_OneYear,-0.7276,0.4831,0.3757,0.6212,-5.671,1.4222967943303129e-08,Reduces Churn Risk (Protective),True
+MonthlyCharges_std,-0.5086,0.6013,0.3988,0.9067,-2.428,0.015201340024886309,Reduces Churn Risk (Protective),True
+StreamingMovies_Yes,0.4989,1.6468,1.3084,2.0729,4.249,2.1433239793022827e-05,Increases Churn Risk,True
+MultipleLines_Yes,0.41,1.5068,1.2248,1.8536,3.878,0.00010531961165677132,Increases Churn Risk,True
+StreamingTV_Yes,0.4058,1.5005,1.1906,1.8911,3.438,0.0005869237357595326,Increases Churn Risk,True
+PaperlessBilling_Yes,0.3974,1.488,1.2493,1.7722,4.456,8.349142778569645e-06,Increases Churn Risk,True
+Payment_ElectronicCheck,0.3455,1.4126,1.1999,1.6631,4.148,3.3528616310282256e-05,Increases Churn Risk,True
+OnlineSecurity_Yes,-0.3065,0.736,0.5969,0.9076,-2.867,0.00413937342436129,Reduces Churn Risk (Protective),True
+Dependents_Yes,-0.2762,0.7586,0.6145,0.9365,-2.57,0.010172319294612514,Reduces Churn Risk (Protective),True
+TechSupport_Yes,-0.2451,0.7826,0.632,0.9691,-2.247,0.02461023824002016,Reduces Churn Risk (Protective),True
+SeniorCitizen,0.1407,1.1511,0.9432,1.4048,1.385,0.1661293243020462,Increases Churn Risk,False
+OnlineBackup_Yes,-0.0521,0.9492,0.7843,1.1488,-0.535,0.5923628383482349,Reduces Churn Risk (Protective),False
+Partner_Yes,-0.0034,0.9966,0.8314,1.1946,-0.037,0.9703605199609878,Reduces Churn Risk (Protective),False

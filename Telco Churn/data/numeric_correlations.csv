@@ -1,0 +1,7 @@
+Feature,Point_Biserial_r,Spearman_rho,Mean_Churned,Mean_Retained,Welch_t_stat,p_value,Significant_0_05
+tenure,-0.3522,-0.3671,17.98,37.57,-34.824,7.999057960588305e-205,True
+is_auto_pay,-0.2099,-0.2099,0.26,0.5,-19.125,5.789070226924472e-71,True
+TotalCharges,-0.1983,-0.23,1531.8,2549.91,-18.707,2.1272116132398846e-63,True
+MonthlyCharges,0.1934,0.1847,74.44,61.27,18.408,2.7066456068880733e-60,True
+SeniorCitizen,0.1509,0.1509,0.25,0.13,11.344,3.839860055788058e-37,True
+total_addon_services,-0.0877,-0.06,1.77,2.14,-8.344,1.671374364587848e-13,True
